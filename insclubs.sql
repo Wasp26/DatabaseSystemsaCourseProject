@@ -1,0 +1,35 @@
+
+insert into Club values(01,1905,26,1,'Chelsea');
+insert into Club values(02,1878,25,1,'Manchester United');
+insert into Club values(03,1886,25,1,'Arsenal');
+insert into Club values(04,1880,25,1,'Manchester City');
+insert into Club values(05,1902,25,1,'Real Madrid');
+insert into Club values(06,1899,24,1,'FC Barcelona');
+insert into Club values(07,1903,23,1,'Atletico Madrid');
+insert into Club values(08,1897,24,1,'Juventus');
+insert into Club values(09,1908,25,1,'Inter Milan');
+insert into Club values(10,1899,25,1,'AC Milan');
+insert into Club values(11,1882,24,1,'Tottenham');
+insert into Club values(12,1892,25,1,'Liverpool');
+insert into Club values(13,1900,25,1, 'Bayern Munich');
+insert into Club values(14,1909, 23,1,'Borussia Dortmund');
+insert into Club values(15,1970,25,1,'PSG');
+insert into Club values(16,1926,23,1,'Napoli');
+insert into Club values(17,1900,26,1,'Ajax');
+insert into Club values(18,1924,34,1,'Monaco');
+
+insert into Country values('Brazil',5,3);
+insert into Country values('Argentina',2,2);
+insert into Country values('England',1,0);
+insert into Country values('Germany',4,1);
+insert into Country values('Italy',4,0);
+insert into Country values('France',2,1);
+insert into Country values('Egypt',0,1);
+insert into Country values('Belgium',0,0);
+insert into Country values('Portugal',0,2);
+insert into Country values('Spain',1,2);
+insert into Country values('Denmark',0,1);
+insert into Country values('Wales',0,0);
+insert into Country values('Serbia',0,0);
+insert into Country values('Netherlands',0,0);
+insert into Country values('Senegal',0,0);
